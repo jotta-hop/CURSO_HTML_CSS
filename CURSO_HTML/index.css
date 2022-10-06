@@ -9,3 +9,12 @@ p.texto {
 h2 {
     color: mediumseagreen;
 }
+
+#fondo {
+    background-color:rgb(194, 148, 237);
+    height: 200px;
+    background-image: url('img/devloper.jpg');
+    
+    background-repeat: repeat-x;
+    background-color: left top; 
+}
